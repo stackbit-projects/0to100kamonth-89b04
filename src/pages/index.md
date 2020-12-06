@@ -6,8 +6,16 @@ sections:
     type: section_hero
     title: 'Hi, I''m Jimmy Westside'
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Which is obviously a fake name, an alter-ego if you will. The real me is a
+      20-something software engineer.  I dropped out of college when I was a
+      teenager, taught myself to code, and have been programming for most of my
+      20's. 
+
+
+      Having tried multiple attempts at entrepeneurship, I am making this blog
+      to document my journey from starting to $100k/month in profit. I plan on
+      achieving this by building a lead generation company selling and renting
+      local lead generation websites. 
   - section_id: about
     type: section_content
     title: About
