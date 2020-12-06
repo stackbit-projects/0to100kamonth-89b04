@@ -14,7 +14,8 @@ sections:
       engineer.  I dropped out of college when I was a teenager, taught myself
       to code, and have been programming for almost all of my 20's. I'm
       currently a senior software engineer at a start up in Silicon Valley. I'm
-      currently building an agency-as-a-product.
+      currently building an agency-as-a-product on the side while I'm still
+      employed as an software developer.
 
 
       Having tried multiple attempts at entrepeneurship, I am making this blog
