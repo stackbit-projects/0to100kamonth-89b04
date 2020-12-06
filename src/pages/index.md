@@ -12,14 +12,16 @@ sections:
     content: >-
       Which is obviously a fake name. The real me is a 20-something software
       engineer.  I dropped out of college when I was a teenager, taught myself
-      to code, and have been programming for almost all of my 20's. 
+      to code, and have been programming for almost all of my 20's. I'm
+      currently a senior software engineer at a start up in Silicon Valley. I'm
+      currently building an agency-as-a-product
 
 
       Having tried multiple attempts at entrepeneurship, I am making this blog
-      to document my journey from starting at 0 while my company is starting up,
-      to eventually getting to $100k/month in profit. I plan on achieving this
-      by building a lead generation company selling and renting local lead
-      generation websites. 
+      to document my journey from starting at 0 while my company is starting up
+      and I am still working a full-time job, to eventually getting to
+      $100k/month in profit. I plan on achieving this by building a lead
+      generation company selling and renting local lead generation websites. 
     actions:
       - label: Contact Me
         url: /contact
