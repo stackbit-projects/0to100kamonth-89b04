@@ -27,10 +27,7 @@ sections:
 
       I want this blog to serve as a guide for myself on how to build a company.
       Stay tuned in the meantime.
-    actions:
-      - label: Contact Me
-        url: /contact
-        style: button
+    actions: []
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
