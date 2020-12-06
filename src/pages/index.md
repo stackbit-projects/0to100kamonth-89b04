@@ -23,6 +23,10 @@ sections:
       and I am still working a full-time job, to eventually getting to
       $100k/month in profit. I plan on achieving this by building a lead
       generation company selling and renting local lead generation websites. 
+
+
+      I want this blog to serve as a guide for myself on how to build a company.
+      Stay tuned in the meantime.
     actions:
       - label: Contact Me
         url: /contact
